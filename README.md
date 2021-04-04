@@ -1,8 +1,2 @@
-Kodu çalıştırabilmeniz için, 
-opsiyonel olarak isterseniz kodu indirin veya kodu kopyalayın. 
-Sonrasında DBM'ye girin. 
-Sol üstteki Add New Command butonuna tıklayın. 
-New Command'a sağ tıklayın ve "Edit Raw Data" seçeneğine tıklayın. 
-Ardından açılan sayfadaki kodları temizleyin ve bu kodları yapıştırın. 
-Kodunuz sorunsuz çalışacaktır. Bir sorun yaşarsanız benimle iletişime geçebilirsiniz.
-(Bu komut otomatik olarak devreye girecektir. Manuel olarak açmanıza gerek yoktur.)
+- 🇬🇧 Optionally download the code or copy the code so that you can run the code. Then enter DBM. Click the Add New Command button in the upper left. Right click on New Command and click "Edit Raw Data". Then clear the codes on the page that opens and paste these codes. Your code will work fine. If you have a problem, you can contact me. (This command will be activated automatically. You don't need to open it manually.)
+- 🇹🇷 Kodu çalıştırabilmeniz için, opsiyonel olarak isterseniz kodu indirin veya kodu kopyalayın. Sonrasında DBM'ye girin. Sol üstteki Add New Command butonuna tıklayın. New Command'a sağ tıklayın ve "Edit Raw Data" seçeneğine tıklayın. Ardından açılan sayfadaki kodları temizleyin ve bu kodları yapıştırın. Kodunuz sorunsuz çalışacaktır. Bir sorun yaşarsanız benimle iletişime geçebilirsiniz. (Bu komut otomatik olarak devreye girecektir. Manuel olarak açmanıza gerek yoktur.)
